@@ -1,0 +1,11 @@
+.data{
+    width: 50%;
+    height: 100%;
+    background-color: aquamarine;
+    border: 2px solid red
+
+}
+
+.list{
+    list-style-type: none;
+}
